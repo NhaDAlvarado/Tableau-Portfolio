@@ -8,13 +8,13 @@ This project outlines the creation of two Tableau dashboards designed to help st
 
 The sales dashboard offers a comprehensive overview of sales metrics, helping stakeholders analyze year-over-year performance, track monthly and weekly sales trends, and compare product subcategories. The dashboard also highlights high and low-performing periods, making it easy to identify key areas for improvement.
 
-![Sales Dashboard](Sales Performance/Dashboards/Sales Dashboard .png)
+![Sales Dashboard](Dashboards/Sales Dashboard .png)
 
 ### 2. Customer Dashboard
 
 The customer dashboard provides insights into customer behavior, trends, and segmentation. It includes detailed KPIs, customer distribution by order volume, and identifies the top 10 customers by profit. This dashboard helps marketing teams and management enhance customer satisfaction and engagement.
 
-![Customer Dashboard](Sales Performance/Dashboards/Customer Dashboard.png)
+![Customer Dashboard](Dashboards/Customer Dashboard.png)
 
 ## Why I Chose This Project
 
