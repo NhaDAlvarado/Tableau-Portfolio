@@ -16,6 +16,8 @@ The Overview section should provide a snapshot of the overall HR metrics, includ
 - Compare total employees between headquarters (HQ) and branches (New York is the HQ).
 - Show the distribution of employees by city and state.
 
+![HR Summary](./Dashboards/HR Summary.png)
+
 ### Demographics
 
 The Demographics section should offer insights into the composition of the workforce, including:
@@ -25,6 +27,8 @@ The Demographics section should offer insights into the composition of the workf
 - Show the total number of employees within each age group.
 - Show the total number of employees within each education level.
 - Present the correlation between employees' educational backgrounds and their performance ratings.
+
+![HR Details](./Dashboards/HR Details.png)
 
 ### Income
 
@@ -46,3 +50,4 @@ The **Employee Records** view should provide a comprehensive list of all employe
 - Salary
 
 Users should be able to filter the list based on any of the available columns.
+[Visit my Tableau Public profile for the full interactive experience](https://public.tableau.com/app/profile/nha.alvarado/viz/HRDashboard_17284409076460/HRSummary)
